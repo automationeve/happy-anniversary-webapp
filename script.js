@@ -24,8 +24,7 @@ function scrollToSurprises() {
 const galleryImages = [
   'assets/images/photo1.png',
   'assets/images/photo2.png',
-  'assets/images/photo3.png',
-  'assets/images/photo4.png'
+  'assets/images/photo3.png'
   // Add more image paths as needed
 ];
 let currentImage = 0;
